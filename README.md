@@ -2,7 +2,7 @@
 <h1>💙 Olá, eu sou o Deywid!</h1>
 
 <p align="left">
-  Estudante de <strong>CiÊncia da computação</strong> pela Newton Paiva (6º período).<br>
+  Estudante de <strong>CiÊncia da computação</strong> na Newton Paiva (6º período).<br>
   Apaixonado por tecnologia e desenvolvimento, focado em aprimorar minhas habilidades e construir projetos significativos.<br>
   Linguagens que estudo e uso: <strong>Python</strong>, <strong>R</strong>, <strong>Java</strong>, <strong>JavaScript</strong> e <strong>SQL</strong>.
 </p>
