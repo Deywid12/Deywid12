@@ -21,7 +21,7 @@
 ## 💻 Tecnologias e ferramentas
 
 ### 📌 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,js,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,js,java,Mysql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=angular,react,selenium,spring,fastapi,aws)](https://skillicons.dev)
