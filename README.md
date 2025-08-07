@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00008B&fontColor=3F9FFF"/>
-<h1>💙 Olá, eu sou a Deywid!</h1>
+<h1>💙 Olá, eu sou o Deywid!</h1>
 
 <p align="left">
   Estudante de <strong>CiÊncia da computação</strong> pela Newton Paiva (4º período).<br>
