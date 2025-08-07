@@ -13,10 +13,10 @@
 
 - 🎓 Estudante de CiÊncia da computação na Newton Paiva (6º período)
 - 🎓 Técnico em Desenvolvimento de sistemas
-- 💻 Analista de sistemas, trabalhando com foco em progredir para desenvolvimento 
+- 💻 Analista de sistemas, trabalhando com foco em progredir para a área de desenvolvimento 
 - 📚 Em constante aprendizado e explorando novas tecnologias e práticas de desenvolvimento  
-- 🌱 Interesses: Back-end, full-stack data science, inteligência artificial, automação e crescimento profissiona  
-- 📍 Baseada em Minas Gerais, Brasil
+- 🌱 Interesses: Back-end, full-stack, data science, inteligência artificial, automação e crescimento profissiona  
+- 📍 Belo Horizonte\MG, Brasil
 
 ## 💻 Tecnologias e ferramentas
 
