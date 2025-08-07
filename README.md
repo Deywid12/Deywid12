@@ -30,9 +30,9 @@
 
 ---
 
-Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em codigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciêcia da computação na Faculdade Newton Paiva, com previsão de formatura para janeiro de 2027.
+Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em codigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciência da computação na Faculdade Newton Paiva, com previsão de formatura para janeiro de 2027.
 
-Tenho investido meu tempo em aprofundar meus conhecimentos em tecnologias como como Python (e suas bibliotecas: Pandas, NumPy, Scikit-Learn, Selenium e JAX), FastAPI, OpenAI/Gemini APIs, CrewAI, ETL, Postgrees, SQL, RPA, além de conceitos de Machine Learning e LLMs. buscando sempre aplicar o que aprendo em projetos reais. Estou especialmente interessado em áreas como Back-end, full-stack, data science, inteligência artificial e automação. Pois acredito serem fundamentais para o futuro da tecnologia pois acredito que a tecnologia só gera valor quando resolve problemas reais para os usuário.
+Tenho investido meu tempo em aprofundar meus conhecimentos em tecnologias como como Python (e suas bibliotecas: Pandas, NumPy, Scikit-Learn, Selenium e JAX), FastAPI, OpenAI/Gemini APIs, CrewAI, ETL, Postgrees, SQL, RPA, além de conceitos de Machine Learning e LLMs. Buscando sempre aplicar o que aprendo em projetos reais. Estou especialmente interessado em áreas como Back-end, full-stack, data science, inteligência artificial e automação. Pois acredito serem fundamentais para o futuro da tecnologia pois acredito que a tecnologia só gera valor quando resolve problemas reais para os usuário.
 
 Sou motivado pela vontade constante de crescer, aprender e superar desafios, e estou aberto a novas oportunidades e conexões que me ajudem a evoluir profissionalmente.
 
@@ -50,7 +50,7 @@ Atualmente moro na região de Belo Horizonte\MG, e acredito que a colaboração 
 #
 
 <p align="center">
-  Vamos nos conectar?  
+  Vamos trabalhar juntos?  
 </p>
 
 <p align="center">
