@@ -1,53 +1,74 @@
-<h2 align="left">👋 Hi there<br>Sou Deywid Souza, um desenvolvedor de software e Analista de dados apaixonado e entusiasta de tecnologia. Atualmente, trabalho como Analista de suporte. Quero ter a oportunidade de trabalhar em diversos projetos e explorar diferentes tecnologias.<br>“Não desista, não há vergonha em cair! A verdadeira vergonha é não se levantar novamente!” — Shintaro Midorima, Kuroko No Basket<br>🚀<br>Embora eu ainda não tenha experiência profissional como desenvolvedor, estou extremamente motivado e empenhado em esntrar no mercado de trabalho e aberto a novos projetos e oportunidades de aprendizado. Tenho grande interesse em desenvolver minhas habilidades e me envolver em desafios práticos que me permitam crescer. Estou entusiasmado com a possibilidade de colaborar com equipes, sempre com o objetivo de aprender e evoluir como profissional.<br>Estou pronto para embarcar em novos projetos, absorver conhecimento e dar o meu melhor em todas as tarefas que assumir!</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00008B&fontColor=3F9FFF"/>
+<h1>💙 Olá, eu sou a Deywid!</h1>
 
-###
+<p align="left">
+  Estudante de <strong>CiÊncia da computação</strong> pela Newton Paiva (4º período).<br>
+  Apaixonado por tecnologia e desenvolvimento, focado em aprimorar minhas habilidades e construir projetos significativos.<br>
+  Linguagens que estudo e uso: <strong>Python</strong>, <strong>R</strong>, <strong>Java</strong>, <strong>JavaScript</strong> e <strong>SQL</strong>.
+</p>
+
+---
+
+# Sobre mim
+
+- 🎓 Estudante de CiÊncia da computação na Newton Paiva (6º período)
+- 🎓 Técnico em Desenvolvimento de sistemas
+- 💻 Analista de sistemas, trabalhando com foco em progredir para desenvolvimento 
+- 📚 Em constante aprendizado e explorando novas tecnologias e práticas de desenvolvimento  
+- 🌱 Interesses: Back-end, full-stack data science, inteligência artificial, automação e crescimento profissiona  
+- 📍 Baseada em Minas Gerais, Brasil
+
+## 💻 Tecnologias e ferramentas
+
+### 📌 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,js,java,)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=angular,react,selenium,spring,fastapi,aws)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
+
+---
+
+Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em codigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciêcia da computação na Faculdade Newton Paiva, com previsão de formatura para janeiro de 2027.
+
+Tenho investido meu tempo em aprender linguagens como Python, MySql e tecnologias de automações e Marchine Learning modernas, buscando sempre aplicar o que aprendo em projetos reais. Estou especialmente interessado em áreas como Back-end, full-stack, data science, inteligência artificial e automação. Pois acredito serem fundamentais para o futuro da tecnologia pois acredito que a tecnologia só gera valor quando resolve problemas reais para os usuário.
+
+Sou motivado pela vontade constante de crescer, aprender e superar desafios, e estou aberto a novas oportunidades e conexões que me ajudem a evoluir profissionalmente.
+
+Atualmente moro na região de Belo Horizonte\MG, e acredito que a colaboração e o aprendizado coletivo são a chave para construir uma carreira sólida e impactante.
+
+
+## ⭐ GitHub Stats
+<div align="center">
+<a href="https://github.com/Deywid12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deywid12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deywid12&layout=compact&langs_count=6&theme=radical"/>
+</a>
+</div>
+
+#
+
+<p align="center">
+  Vamos nos conectar?  
+</p>
+
+<p align="center">
+  <a href="mailto:deywid2005@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deywid-souza" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deywid12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maryporto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/eideywidsouza/?next=%2F"> <img href=""src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
-  <a href="pegadordekasada"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a href="mailto:deywid2005@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
-  <a href="https://www.linkedin.com/in/deywid-souza-1b7b92263/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
   
-</div>
+  [![Deywid Souza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deywid12&bg_color=0d1117&color=c535d0&line=d1056c&poin=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
-
-<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVqMDU2cnNqc3QwcjU1M2p3N2pzbW1kcTNsdHA2OWZ6cDVydmxsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E7juYEjJPrXiDTCI6e/giphy.gif" />
+  
 
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryporto/Maryporto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maryporto/Maryporto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Maryporto/Maryporto/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00008B"/>
