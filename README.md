@@ -11,7 +11,7 @@
 
 # Sobre mim
 
-- 🎓 Estudante de CiÊncia da computação na Newton Paiva (6º período)
+- 🎓 Estudante de Ciência da computação na Newton Paiva (6º período)
 - 🎓 Técnico em Desenvolvimento de sistemas
 - 💻 Analista de sistemas, trabalhando com foco em progredir para a área de desenvolvimento  
 - 🌱 Interesses: Back-end, full-stack, data science, inteligência artificial, automação e crescimento profissional
