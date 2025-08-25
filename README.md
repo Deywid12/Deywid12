@@ -2,7 +2,7 @@
 <h1>💙 Olá, eu sou o Deywid!</h1>
 
 <p align="left">
-  Estudante de <strong>Ciência da computação</strong> na Newton Paiva (6º período).<br>
+  Estudante de <strong>Ciência da computação</strong> na Una (6º período).<br>
   Apaixonado por tecnologia e desenvolvimento, focado em aprimorar minhas habilidades e construir projetos significativos.<br>
   Linguagens que estudo e uso: <strong>Python</strong>, <strong>R</strong>, <strong>Java</strong>, <strong>JavaScript</strong> e <strong>SQL</strong>.
 </p>
@@ -11,7 +11,7 @@
 
 # Sobre mim
 
-- 🎓 Estudante de Ciência da computação na Newton Paiva (6º período)
+- 🎓 Estudante de Ciência da computação na Una (6º período)
 - 🎓 Técnico em Desenvolvimento de sistemas
 - 💻 Analista de sistemas, trabalhando com foco em progredir para a área de desenvolvimento  
 - 🌱 Interesses: Back-end, full-stack, data science, inteligência artificial, automação e crescimento profissional
@@ -38,7 +38,7 @@
 
 </div>
 
-Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em códigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciência da computação na Faculdade Newton Paiva, com previsão de formatura para janeiro de 2027.
+Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em códigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciência da computação na Faculdade Una, com previsão de formatura para janeiro de 2027.
 
 Tenho investido meu tempo em aprofundar meus conhecimentos em tecnologias como como Python (e suas bibliotecas: Pandas, NumPy, Scikit-Learn, Selenium e JAX), FastAPI, OpenAI/Gemini APIs, CrewAI, ETL, Postgrees, SQL, RPA, além de conceitos de Machine Learning e LLMs. Buscando sempre aplicar o que aprendo em projetos reais. Estou especialmente interessado em áreas como Back-end, full-stack, data science, inteligência artificial e automação. Pois acredito serem fundamentais para o futuro da tecnologia pois acredito que a tecnologia só gera valor quando resolve problemas reais para os usuário.
 
