@@ -1,81 +1,65 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00008B&fontColor=3F9FFF"/>
-<h1>💙 Olá, eu sou o Deywid!</h1>
 
-<p align="left">
-  Estudante de <strong>Ciência da computação</strong> na Una (6º período).<br>
-  Apaixonado por tecnologia e desenvolvimento, focado em aprimorar minhas habilidades e construir projetos significativos.<br>
-  Linguagens que estudo e uso: <strong>Python</strong>, <strong>R</strong>, <strong>Java</strong>, <strong>JavaScript</strong> e <strong>SQL</strong>.
-</p>
+# Olá, eu sou o Deywid 👋
 
----
+Desenvolvedor full stack e de automações, em Contagem · MG. Formado em Ciência da Computação na UNA (2023–2027).
 
-# Sobre mim
+Construo aplicações web, backends serverless na AWS, automações que rodam em produção e pipelines de dados.
 
-- 🎓 Estudante de Ciência da computação na Una (6º período)
-- 🎓 Técnico em Desenvolvimento de sistemas
-- 💻 Analista de sistemas, trabalhando com foco em progredir para a área de desenvolvimento  
-- 🌱 Interesses: Back-end, full-stack, data science, inteligência artificial, automação e crescimento profissional
-- 📚 Minha sólida experiência como suporte técnico foi essencial para desenvolver uma visão mais clara sobre as dores das equipes, especialmente em tarefas repetitivas, maçantes e de        grande volume. Essa perspectiva tem sido crucial para a criação de soluções otimizadas com foco em automação.
+## No dia a dia
 
-## 💻 Tecnologias e ferramentas
+- **Radio Memory** · Desenvolvedor Full Stack. Plataformas usadas por clínicas de radiologia odontológica: telas em Angular, API em Node.js e serviços na AWS (Lambda, API Gateway, SQS, DynamoDB, S3 e CloudFront). Entre os sistemas, um módulo fiscal serverless e o Dashboard do Assinante, o sistema interno de gestão da empresa.
+- **Autodev** · Desenvolvedor Python / RPA. Automações, ETL e análise de dados com Python, Playwright, Selenium, Temporal, MongoDB e PostgreSQL.
+- **Antes disso**, trabalhei com suporte técnico. Foi lá que ganhei a visão de quem usa o sistema, que levo para o que desenvolvo.
 
-### 📌 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,js,java,mysql)](https://skillicons.dev)
+## Tecnologias
 
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=angular,react,selenium,spring,fastapi,aws)](https://skillicons.dev)
+**Front e back**
 
-### 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=angular,ts,nodejs,express)](https://skillicons.dev)
 
----
+**Cloud e dados**
 
-## ⚡ **Principais Repositórios:**
+[![Skills](https://skillicons.dev/icons?i=aws,py,postgres,mongodb)](https://skillicons.dev)
 
-<div id="header" align="center">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deywid12&repo=Sistema-de-Mensageria-RabbitMQ\&title_theme=black\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Deywid12/Sistema-de-Mensageria-RabbitMQ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deywid12&repo=Api-ChatGPT-Basebot\&title_theme=black\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Deywid12/Api-ChatGPT-Basebot) 
+**Ferramentas**
 
-</div>
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,postman)](https://skillicons.dev)
 
-Atuo como analista de sistemas, resolvendo problemas fazendo manutenção em códigos e em banco de dados, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 6º período de Ciência da computação na Faculdade Una, com previsão de formatura para janeiro de 2027.
+## Repositórios
 
-Tenho investido meu tempo em aprofundar meus conhecimentos em tecnologias como como Python (e suas bibliotecas: Pandas, NumPy, Scikit-Learn, Selenium e JAX), FastAPI, OpenAI/Gemini APIs, CrewAI, ETL, Postgrees, SQL, RPA, além de conceitos de Machine Learning e LLMs. Buscando sempre aplicar o que aprendo em projetos reais. Estou especialmente interessado em áreas como Back-end, full-stack, data science, inteligência artificial e automação. Pois acredito serem fundamentais para o futuro da tecnologia pois acredito que a tecnologia só gera valor quando resolve problemas reais para os usuário.
-
-Sou motivado pela vontade constante de crescer, aprender e superar desafios, e estou aberto a novas oportunidades e conexões que me ajudem a evoluir profissionalmente.
-
-Atualmente moro na região de Belo Horizonte\MG, e acredito que a colaboração e o aprendizado coletivo são a chave para construir uma carreira sólida e impactante.
-
-
-## ⭐ GitHub Stats
 <div align="center">
-<a href="https://github.com/Deywid12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deywid12&show_icons=true&theme=radical&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deywid12&layout=compact&langs_count=7&theme=radical"/>
-</a>
+
+[![infra-signet-docker](https://github-readme-stats.vercel.app/api/pin/?username=Deywid12&repo=infra-signet-docker&title_theme=black&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Deywid12/infra-signet-docker)
+[![Sistema-de-Mensageria-RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=Deywid12&repo=Sistema-de-Mensageria-RabbitMQ&title_theme=black&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Deywid12/Sistema-de-Mensageria-RabbitMQ)
+[![Api-ChatGPT-Basebot](https://github-readme-stats.vercel.app/api/pin/?username=Deywid12&repo=Api-ChatGPT-Basebot&title_theme=black&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Deywid12/Api-ChatGPT-Basebot)
+
 </div>
 
-#
+`infra-signet-docker` é um nó Bitcoin em Signet com Docker Compose (nó e minerador), feito a partir de um workshop da Vinteum.
 
-<p align="center">
-  Vamos trabalhar juntos?  
-</p>
+## Comunidade
 
-<p align="center">
-  <a href="mailto:deywid2005@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+Participo de eventos de tecnologia em BH e em outros estados: DevFest BH (2025 e 2026), GDG BH Meet, Google I/O Extended BH, Hacking na Web Day e Bitcoin Students Day. Também estive no AWS Summit São Paulo e na DCC Week da UFMG representando a Radio Memory.
+
+## Onde me achar
+
+<p>
+  <a href="https://deywid12.github.io/Portifolio-Deywid/" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portf%C3%B3lio-1f6feb?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://www.linkedin.com/in/deywid-souza" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:deywid2005@gmail.com" title="E-mail">
+    <img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
 
 <div align="center">
-  
-  [![Deywid Souza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deywid12&bg_color=0d1117&color=c535d0&line=d1056c&poin=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Deywid12&bg_color=0d1117&color=3F9FFF&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/Deywid12)
 
-
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00008B"/>
